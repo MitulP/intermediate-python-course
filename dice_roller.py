@@ -2,6 +2,7 @@ import random
 def main():
   #roll = random.randint(1,6)
   #print(f'You rolled a {roll}')
+  #a = 0
   dice_rolls = int(input('How many dice would you like to roll? '))
   dice_size = int(input('How many sides are the dice? '))
   dice_sum = 0
